@@ -1,0 +1,11 @@
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\bin\Release\TextSearchingTool.exe
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\bin\Release\TextSearchingTool.pdb
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\bin\Release\TextSearchingTool.xml
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Release\TextSearchingTool.Main.resources
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Release\TextSearchingTool.Resources.resources
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Release\TextSearchingTool.SearchSettings.resources
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Release\TextSearchingTool.vbproj.GenerateResource.Cache
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Release\TextSearchingTool.exe
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Release\TextSearchingTool.xml
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Release\TextSearchingTool.pdb

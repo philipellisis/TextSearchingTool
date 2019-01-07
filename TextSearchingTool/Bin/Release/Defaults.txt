@@ -1,0 +1,3 @@
+D:\Documents and Settings\220003933\My Documents\proficy\test\output.txt
+D:\Documents and Settings\220003933\My Documents\proficy\test\test.txt
+D:\Documents and Settings\220003933\My Documents\proficy\test\Copy of test.txt

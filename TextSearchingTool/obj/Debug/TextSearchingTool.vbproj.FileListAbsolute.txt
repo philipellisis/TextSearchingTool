@@ -1,0 +1,47 @@
+D:\Documents and Settings\220003933\Local Settings\Application Data\Temporary Projects\TextSearchingTool\bin\Debug\TextSearchingTool.exe
+D:\Documents and Settings\220003933\Local Settings\Application Data\Temporary Projects\TextSearchingTool\bin\Debug\TextSearchingTool.pdb
+D:\Documents and Settings\220003933\Local Settings\Application Data\Temporary Projects\TextSearchingTool\bin\Debug\TextSearchingTool.xml
+D:\Documents and Settings\220003933\Local Settings\Application Data\Temporary Projects\TextSearchingTool\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\220003933\Local Settings\Application Data\Temporary Projects\TextSearchingTool\obj\Debug\TextSearchingTool.Form1.resources
+D:\Documents and Settings\220003933\Local Settings\Application Data\Temporary Projects\TextSearchingTool\obj\Debug\TextSearchingTool.Resources.resources
+D:\Documents and Settings\220003933\Local Settings\Application Data\Temporary Projects\TextSearchingTool\obj\Debug\TextSearchingTool.vbproj.GenerateResource.Cache
+D:\Documents and Settings\220003933\Local Settings\Application Data\Temporary Projects\TextSearchingTool\obj\Debug\TextSearchingTool.exe
+D:\Documents and Settings\220003933\Local Settings\Application Data\Temporary Projects\TextSearchingTool\obj\Debug\TextSearchingTool.xml
+D:\Documents and Settings\220003933\Local Settings\Application Data\Temporary Projects\TextSearchingTool\obj\Debug\TextSearchingTool.pdb
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.exe
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.xml
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.pdb
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\bin\Debug\TextSearchingTool.exe
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\bin\Debug\TextSearchingTool.pdb
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\bin\Debug\TextSearchingTool.xml
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.Main.resources
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.Resources.resources
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.SearchSettings.resources
+D:\Documents and Settings\220003933\My Documents\Visual Studio 2008\Projects\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.vbproj.GenerateResource.Cache
+C:\Users\phili\OneDrive\Desktop\TextSearchingTool\TextSearchingTool\bin\Debug\TextSearchingTool.exe.config
+C:\Users\phili\OneDrive\Desktop\TextSearchingTool\TextSearchingTool\bin\Debug\TextSearchingTool.exe
+C:\Users\phili\OneDrive\Desktop\TextSearchingTool\TextSearchingTool\bin\Debug\TextSearchingTool.pdb
+C:\Users\phili\OneDrive\Desktop\TextSearchingTool\TextSearchingTool\bin\Debug\TextSearchingTool.xml
+C:\Users\phili\OneDrive\Desktop\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.vbprojAssemblyReference.cache
+C:\Users\phili\OneDrive\Desktop\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.Main.resources
+C:\Users\phili\OneDrive\Desktop\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.Resources.resources
+C:\Users\phili\OneDrive\Desktop\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.SearchSettings.resources
+C:\Users\phili\OneDrive\Desktop\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.vbproj.GenerateResource.cache
+C:\Users\phili\OneDrive\Desktop\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.vbproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Desktop\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.exe
+C:\Users\phili\OneDrive\Desktop\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.xml
+C:\Users\phili\OneDrive\Desktop\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.pdb
+C:\git\TextSearchingTool\TextSearchingTool\bin\Debug\TextSearchingTool.exe.config
+C:\git\TextSearchingTool\TextSearchingTool\bin\Debug\TextSearchingTool.exe
+C:\git\TextSearchingTool\TextSearchingTool\bin\Debug\TextSearchingTool.pdb
+C:\git\TextSearchingTool\TextSearchingTool\bin\Debug\TextSearchingTool.xml
+C:\git\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.vbprojAssemblyReference.cache
+C:\git\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.Main.resources
+C:\git\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.Resources.resources
+C:\git\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.SearchSettings.resources
+C:\git\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.vbproj.GenerateResource.cache
+C:\git\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.vbproj.CoreCompileInputs.cache
+C:\git\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.exe
+C:\git\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.xml
+C:\git\TextSearchingTool\TextSearchingTool\obj\Debug\TextSearchingTool.pdb
